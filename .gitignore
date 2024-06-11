@@ -169,3 +169,5 @@ dataset_split/
 keras_metadata.pb
 saved_model.pb
 variables*
+
+model.tflite
