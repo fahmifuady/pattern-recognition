@@ -24,6 +24,8 @@ Sebanyak 12000 gambar tersebut dibagi menjadi 12 kelas berbeda, yaitu:
     Bad Pomegranate
     Good Pomegranate
 
+![image](https://github.com/fahmifuady/pattern-recognition/assets/60414175/728b3066-d89c-45ef-b4de-8083eebccb49)
+
 Dataset yang digunakan dapat diunduh di [IEEE DataPort](https://ieee-dataport.org/open-access/fruitsgb-top-indian-fruits-quality)
 
 ### 🛠️ Alur Kerja
@@ -39,6 +41,7 @@ Dataset yang digunakan dapat diunduh di [IEEE DataPort](https://ieee-dataport.or
   - Loss function yang digunakan categorical crossentropy.
   - Optimizer yang digunakan Adam.
 - Akurasi yang diperoleh saat evaluasi model dengan 100 epoch sebesar ~80%.
+![Figure_1](https://github.com/fahmifuady/pattern-recognition/assets/60414175/7a636cd0-4a6a-4ae4-a347-ba6cacbf305e)
 
 ### 🚀 Anggota Kelompok
 
