@@ -2,6 +2,11 @@
 
 ## Studi Kasus: Klasifikasi Kualitas Buah Menggunakan CNN
 
+![Static Badge](https://img.shields.io/badge/windows-11-0078D4?logo=windows11&logoColor=0078D4)
+![Static Badge](https://img.shields.io/badge/anaconda-23.7.4-44A833?logo=anaconda&logoColor=44A833)
+![Static Badge](https://img.shields.io/badge/python-3.10.14-3776AB?logo=python&logoColor=3776AB)
+![Static Badge](https://img.shields.io/badge/tensorflow-2.10.1-orange?logo=tensorflow&logoColor=orange)
+
 ### 📖 Deskripsi
 
 Project ini berisi program untuk mengklasifikasikan 6 jenis buah berdasarkan kualitasnya. Dataset yang digunakan dalam project ini adalah dataset FRUITSGB: TOP INDIAN FRUITS WITH yang diperoleh dari IEEE DataPort.
@@ -41,7 +46,7 @@ Dataset yang digunakan dapat diunduh di [IEEE DataPort](https://ieee-dataport.or
   - Loss function yang digunakan categorical crossentropy.
   - Optimizer yang digunakan Adam.
 - Akurasi yang diperoleh saat evaluasi model dengan 100 epoch sebesar ~80%.
-![Figure_1](https://github.com/fahmifuady/pattern-recognition/assets/60414175/7a636cd0-4a6a-4ae4-a347-ba6cacbf305e)
+  ![Figure_1](https://github.com/fahmifuady/pattern-recognition/assets/60414175/7a636cd0-4a6a-4ae4-a347-ba6cacbf305e)
 
 ### 🚀 Anggota Kelompok
 
