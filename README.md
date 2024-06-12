@@ -24,7 +24,7 @@ Dataset yang digunakan dapat diunduh di [IEEEDataPort](https://ieee-dataport.org
 
 ### 🚀 Anggota Kelompok
 
-| Nama | NIM     | Jobdes                       |
+| Nama | NIM     | Jobdesc                       |
 | :-------- | :------- | :-------------------------------- |
 | 1. Muhammad Husni Fahmi Fuady      | 21102049 | Pembuat model & coding |
 | 2. Cheppi Garda Muhamad      | 21102163 | Mencari dataset & coding |
